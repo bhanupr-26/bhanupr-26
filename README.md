@@ -10,11 +10,11 @@
 
 
 
-- 🔭 I’m currently working on **Plant Disease Detection Using Machine Learning**
+- 🔭 I’m currently working on **Building Crazy stuff**
 
 - 📫 How to reach me **bhanuprakashreddy61@gmail.com**
 
-- 📄 Know about my experiences [https://resumelink.co/jmugambwa](https://resumelink.co/bhanuprakash)
+- 📄 Know about my experiences [https://resumelink.co/bhanuPrakash](https://resumelink.co/bhanuprakash)
 
 - ⚡ Fun fact **Iam a big fun of Cricket and Travelling**
 
@@ -47,29 +47,51 @@
 ###
 
 <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
+
 <p align="left">
-  <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-original.svg" width="40" height="40" alt="Microsoft Office"/>
-  </a>
-  <a href="https://www.canva.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
-</p>
+
+<!-- Programming Languages -->
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</a>
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+</a>
+<a href="https://www.postgresql.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+</a>
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</a>
+
+<!-- Data Science -->
+<a href="https://numpy.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+</a>
+<a href="https://pandas.pydata.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+</a>
+<a href="https://matplotlib.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" alt="Matplotlib"/>
+</a>
+<a href="https://jupyter.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+</a>
+
+<!-- Machine Learning and AI -->
+<a href="https://scikit-learn.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
+</a>
+<a href="https://www.tensorflow.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+</a>
+<a href="https://pytorch.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+</a>
+<a href="https://colab.research.google.com/">
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" alt="Google Colab"/>
+</a>
 
 
 <h3 align="left">Support:</h3>
